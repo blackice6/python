@@ -19,4 +19,5 @@ total_marks = 85
 print(total_marks)
 # Variable names are not supposed to be keywords/ reserved characters in python 
 
-# for = 
+# for = "Nairobi"
+# print(for)
